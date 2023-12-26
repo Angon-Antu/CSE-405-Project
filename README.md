@@ -1,2 +1,2 @@
 # CSE-405-Project
-Networking Project using Cisco Packet Tracer 
+Designing a Networking Project using Cisco Packet Tracer.
